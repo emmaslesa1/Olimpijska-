@@ -1,4 +1,4 @@
-# Olimpijska-
+# Olimpijska
 Program koji dodaje olimpijski grad u olimpijsku državu. 
 Grad može biti olimpijski grad samo ako se nalazi u olimpijskoj državi. Ako se grad proba
 proglasiti za olimpijski, a nije u olimpijskoj državi, treba izbaciti dijalog (Alert tipa Error) sa
