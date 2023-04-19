@@ -1,6 +1,3 @@
-# Olimpijska
-Program koji dodaje olimpijski grad u olimpijsku državu. 
-Grad može biti olimpijski grad samo ako se nalazi u olimpijskoj državi. Ako se grad proba
-proglasiti za olimpijski, a nije u olimpijskoj državi, treba izbaciti dijalog (Alert tipa Error) sa
-porukom "Država xxx nije olimpijska država". Također, metoda setOlimpijski klase Grad u tom
-slučaju treba baciti izuzetak tipa NotOlimpicCountryException sa istim tekstom.
+# Olympic
+A program that adds an Olympic city to an Olympic country.
+A city can only be an Olympic city if it is located in an Olympic country. If the city tries to be declared Olympic, but it is not in the Olympic country, a dialogue (Error type Alert) with the message "Country xxx is not an Olympic country" should be thrown. Also, the setOlympicCountryException method of the City class should in that case throw an exception of type NotOlympicCountryException with the same text.
